@@ -1,0 +1,353 @@
+[
+  {
+    "code": "11",
+    "name": "Île-de-France",
+    "population": 12463067,
+    "density": 1037.5,
+    "medianAge": 37.6,
+    "ageStructure": {
+      "under25": 31.76,
+      "a25_39": 21.53,
+      "a40_54": 19.86,
+      "a55_64": 11.35,
+      "a65plus": 15.51
+    },
+    "csp": {
+      "agriculteurs": 0.05,
+      "artisansCommercants": 3.34,
+      "cadres": 20.6,
+      "professionsIntermediaires": 15.17,
+      "employes": 15.21,
+      "ouvriers": 7.98,
+      "retraites": 19.61,
+      "autresInactifs": 18.03
+    },
+    "medianIncome": 28210,
+    "povertyRate": 17.3,
+    "urbanShare": 95.5
+  },
+  {
+    "code": "24",
+    "name": "Centre-Val de Loire",
+    "population": 2587031,
+    "density": 66.1,
+    "medianAge": 44.9,
+    "ageStructure": {
+      "under25": 27.87,
+      "a25_39": 16.28,
+      "a40_54": 18.95,
+      "a55_64": 13.18,
+      "a65plus": 23.72
+    },
+    "csp": {
+      "agriculteurs": 0.82,
+      "artisansCommercants": 3.42,
+      "cadres": 8.35,
+      "professionsIntermediaires": 13.94,
+      "employes": 15.01,
+      "ouvriers": 13.12,
+      "retraites": 31.95,
+      "autresInactifs": 13.39
+    },
+    "medianIncome": 25490,
+    "povertyRate": 14.5,
+    "urbanShare": 51.3
+  },
+  {
+    "code": "27",
+    "name": "Bourgogne-Franche-Comté",
+    "population": 2802670,
+    "density": 58.7,
+    "medianAge": 45.7,
+    "ageStructure": {
+      "under25": 27.1,
+      "a25_39": 16.2,
+      "a40_54": 18.74,
+      "a55_64": 13.48,
+      "a65plus": 24.47
+    },
+    "csp": {
+      "agriculteurs": 1.12,
+      "artisansCommercants": 3.65,
+      "cadres": 7.28,
+      "professionsIntermediaires": 13.44,
+      "employes": 14.44,
+      "ouvriers": 14.11,
+      "retraites": 32.42,
+      "autresInactifs": 13.54
+    },
+    "medianIncome": 25640,
+    "povertyRate": 14.2,
+    "urbanShare": 45.3
+  },
+  {
+    "code": "28",
+    "name": "Normandie",
+    "population": 3345842,
+    "density": 112,
+    "medianAge": 44,
+    "ageStructure": {
+      "under25": 28.47,
+      "a25_39": 16.69,
+      "a40_54": 18.67,
+      "a55_64": 13.22,
+      "a65plus": 22.95
+    },
+    "csp": {
+      "agriculteurs": 0.89,
+      "artisansCommercants": 3.39,
+      "cadres": 7.55,
+      "professionsIntermediaires": 13.66,
+      "employes": 15.14,
+      "ouvriers": 13.77,
+      "retraites": 31.39,
+      "autresInactifs": 14.2
+    },
+    "medianIncome": 25200,
+    "povertyRate": 14.7,
+    "urbanShare": 50.8
+  },
+  {
+    "code": "32",
+    "name": "Hauts-de-France",
+    "population": 5992194,
+    "density": 188.4,
+    "medianAge": 40.8,
+    "ageStructure": {
+      "under25": 31.03,
+      "a25_39": 17.97,
+      "a40_54": 19.17,
+      "a55_64": 12.46,
+      "a65plus": 19.37
+    },
+    "csp": {
+      "agriculteurs": 0.48,
+      "artisansCommercants": 2.85,
+      "cadres": 8.33,
+      "professionsIntermediaires": 13.88,
+      "employes": 15.73,
+      "ouvriers": 14.11,
+      "retraites": 26.77,
+      "autresInactifs": 17.84
+    },
+    "medianIncome": 23950,
+    "povertyRate": 19,
+    "urbanShare": 70.8
+  },
+  {
+    "code": "44",
+    "name": "Grand Est",
+    "population": 5563378,
+    "density": 96.9,
+    "medianAge": 43.4,
+    "ageStructure": {
+      "under25": 28.1,
+      "a25_39": 17.7,
+      "a40_54": 19.16,
+      "a55_64": 13.44,
+      "a65plus": 21.61
+    },
+    "csp": {
+      "agriculteurs": 0.71,
+      "artisansCommercants": 3.17,
+      "cadres": 8.41,
+      "professionsIntermediaires": 14.14,
+      "employes": 15.6,
+      "ouvriers": 13.89,
+      "retraites": 28.64,
+      "autresInactifs": 15.44
+    },
+    "medianIncome": 25850,
+    "povertyRate": 15.9,
+    "urbanShare": 61.3
+  },
+  {
+    "code": "52",
+    "name": "Pays de la Loire",
+    "population": 3907156,
+    "density": 121.8,
+    "medianAge": 42.8,
+    "ageStructure": {
+      "under25": 29.36,
+      "a25_39": 17.04,
+      "a40_54": 19.27,
+      "a55_64": 12.44,
+      "a65plus": 21.9
+    },
+    "csp": {
+      "agriculteurs": 0.99,
+      "artisansCommercants": 3.54,
+      "cadres": 9.62,
+      "professionsIntermediaires": 14.53,
+      "employes": 14.52,
+      "ouvriers": 13.99,
+      "retraites": 30.28,
+      "autresInactifs": 12.52
+    },
+    "medianIncome": 26040,
+    "povertyRate": 11.5,
+    "urbanShare": 50.9
+  },
+  {
+    "code": "53",
+    "name": "Bretagne",
+    "population": 3449370,
+    "density": 126.8,
+    "medianAge": 45,
+    "ageStructure": {
+      "under25": 27.6,
+      "a25_39": 16.21,
+      "a40_54": 19.13,
+      "a55_64": 13.29,
+      "a65plus": 23.77
+    },
+    "csp": {
+      "agriculteurs": 1.04,
+      "artisansCommercants": 3.7,
+      "cadres": 9.08,
+      "professionsIntermediaires": 14.03,
+      "employes": 14.3,
+      "ouvriers": 12.4,
+      "retraites": 32.3,
+      "autresInactifs": 13.15
+    },
+    "medianIncome": 26240,
+    "povertyRate": 11.6,
+    "urbanShare": 46.5
+  },
+  {
+    "code": "75",
+    "name": "Nouvelle-Aquitaine",
+    "population": 6150451,
+    "density": 73.2,
+    "medianAge": 46.5,
+    "ageStructure": {
+      "under25": 25.98,
+      "a25_39": 16.11,
+      "a40_54": 19.15,
+      "a55_64": 13.51,
+      "a65plus": 25.24
+    },
+    "csp": {
+      "agriculteurs": 1.07,
+      "artisansCommercants": 4.39,
+      "cadres": 8.57,
+      "professionsIntermediaires": 13.54,
+      "employes": 15.08,
+      "ouvriers": 11.38,
+      "retraites": 32.86,
+      "autresInactifs": 13.11
+    },
+    "medianIncome": 25520,
+    "povertyRate": 14.6,
+    "urbanShare": 49.3
+  },
+  {
+    "code": "76",
+    "name": "Occitanie",
+    "population": 6124653,
+    "density": 84.2,
+    "medianAge": 44.8,
+    "ageStructure": {
+      "under25": 27.34,
+      "a25_39": 16.81,
+      "a40_54": 18.95,
+      "a55_64": 13.15,
+      "a65plus": 23.75
+    },
+    "csp": {
+      "agriculteurs": 1.05,
+      "artisansCommercants": 4.49,
+      "cadres": 9.84,
+      "professionsIntermediaires": 13.86,
+      "employes": 14.88,
+      "ouvriers": 9.67,
+      "retraites": 30.51,
+      "autresInactifs": 15.71
+    },
+    "medianIncome": 24650,
+    "povertyRate": 18.6,
+    "urbanShare": 60.9
+  },
+  {
+    "code": "84",
+    "name": "Auvergne-Rhône-Alpes",
+    "population": 8205557,
+    "density": 117.7,
+    "medianAge": 42.1,
+    "ageStructure": {
+      "under25": 29.23,
+      "a25_39": 18.1,
+      "a40_54": 19.31,
+      "a55_64": 12.47,
+      "a65plus": 20.89
+    },
+    "csp": {
+      "agriculteurs": 0.74,
+      "artisansCommercants": 4.14,
+      "cadres": 11.24,
+      "professionsIntermediaires": 15.32,
+      "employes": 14.7,
+      "ouvriers": 11.67,
+      "retraites": 27.68,
+      "autresInactifs": 14.52
+    },
+    "medianIncome": 26920,
+    "povertyRate": 14.2,
+    "urbanShare": 65.4
+  },
+  {
+    "code": "93",
+    "name": "Provence-Alpes-Côte d'Azur",
+    "population": 5218960,
+    "density": 166.2,
+    "medianAge": 45,
+    "ageStructure": {
+      "under25": 26.8,
+      "a25_39": 16.97,
+      "a40_54": 19.06,
+      "a55_64": 13.18,
+      "a65plus": 23.98
+    },
+    "csp": {
+      "agriculteurs": 0.38,
+      "artisansCommercants": 4.86,
+      "cadres": 9.98,
+      "professionsIntermediaires": 13.78,
+      "employes": 15.55,
+      "ouvriers": 9.05,
+      "retraites": 29.91,
+      "autresInactifs": 16.49
+    },
+    "medianIncome": 25560,
+    "povertyRate": 18.9,
+    "urbanShare": 84.9
+  },
+  {
+    "code": "94",
+    "name": "Corse",
+    "population": 355486,
+    "density": 41,
+    "medianAge": 46.5,
+    "ageStructure": {
+      "under25": 24.29,
+      "a25_39": 17.25,
+      "a40_54": 19.97,
+      "a55_64": 13.41,
+      "a65plus": 25.08
+    },
+    "csp": {
+      "agriculteurs": 0.88,
+      "artisansCommercants": 6.11,
+      "cadres": 6.19,
+      "professionsIntermediaires": 12.4,
+      "employes": 17.43,
+      "ouvriers": 9.76,
+      "retraites": 29.98,
+      "autresInactifs": 17.25
+    },
+    "medianIncome": 25020,
+    "povertyRate": 20,
+    "urbanShare": 53.2
+  }
+]
